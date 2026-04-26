@@ -1,5 +1,5 @@
-<a href="https://vickykingrani.github.io">
-  <img src="https://vickykingrani.github.io/og-image.png" alt="Vicky Kingrani — Lead UX Designer · 13+ years designing regulated, expert-user enterprise software" width="100%">
+<a href="https://vickykingrani.com">
+  <img src="https://vickykingrani.com/og-image.png" alt="Vicky Kingrani — Lead UX Designer · 13+ years designing regulated, expert-user enterprise software" width="100%">
 </a>
 
 ### 👋 Hi, I'm Vicky
@@ -14,10 +14,10 @@ I design regulated, expert-user enterprise software — the kind that runs tradi
 
 #### Where to find me
 
-- **Portfolio →** [vickykingrani.github.io](https://vickykingrani.github.io)
-- **Résumé →** [vickykingrani.github.io/resume](https://vickykingrani.github.io/resume)
+- **Portfolio →** [vickykingrani.com](https://vickykingrani.com)
+- **Résumé →** [vickykingrani.com/resume](https://vickykingrani.com/resume)
 - **LinkedIn →** [linkedin.com/in/vickykingrani](https://linkedin.com/in/vickykingrani)
-- **Email →** [vickykingrani@gmail.com](mailto:vickykingrani@gmail.com)
+- **Email →** [hello@vickykingrani.com](mailto:hello@vickykingrani.com)
 
 ---
 
