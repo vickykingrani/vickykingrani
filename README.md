@@ -6,13 +6,13 @@
 
 **Lead UX Designer · Glasgow, UK**
 
-I design regulated, expert-user enterprise software — the kind that runs trading floors, hospitals, and pharmaceutical supply chains. Thirteen years pulling apart dense, high-stakes workflows and rebuilding them around how expert users actually work.
+I design regulated, expert-user enterprise software — the kind that runs trading floors under daily audit. Thirteen years pulling apart dense, expert workflows and rebuilding them around how analysts, clinicians, and compliance teams actually work.
 
-📌 **Currently** sole UX for a Swiss investment bank's market-risk platform under FRTB, IMA DRC, and Basel III.
+📌 **Currently** Lead UX (via Wipro) on a Swiss investment bank's market-risk platform under FRTB, IMA DRC, and Basel III — embedded with quants, methodology, and engineering. Validated redesign: 60% click reduction on standard daily setups, 40% task-completion lift in prototype testing.
 
 ---
 
-#### 🔗 Where to find me
+#### Where to find me
 
 - **Portfolio →** [vickykingrani.github.io](https://vickykingrani.github.io)
 - **Résumé →** [vickykingrani.github.io/resume](https://vickykingrani.github.io/resume)
@@ -21,17 +21,18 @@ I design regulated, expert-user enterprise software — the kind that runs tradi
 
 ---
 
-#### 🏢 Industries
+#### Domains
 
-`Investment banking` · `Healthcare` · `Cybersecurity` · `Pharma supply chain` · `Telecom`
+**Investment banking** (current focus) · **Cybersecurity** (founding designer at 9ine — 8 modules deployed across hundreds of schools) · *Previously:* Healthcare, Pharma supply chain, Telecom
 
-#### 🛠 How I work
+#### How I work
 
-- Sole UX or lead practitioner — comfortable in either shape
-- Design systems from blank page; complex IA; state machines for high-stakes workflows
-- WCAG 2.1 AA baked in, not retrofit
-- I write down decisions so the team keeps using them after I move on
+- Sole UX in current role; previously led a 5-person team at 9ine and managed 12 reports at Koru UX.
+- Design systems from blank page; complex IA; state machines for high-stakes workflows.
+- WCAG 2.1 AA baked in, not retrofit.
+- Tools: Figma, Sketch, Adobe XD, Axure.
+- I write down decisions so the team keeps using them after I move on.
 
 ---
 
-<sub>📍 Glasgow, UK · Open to UK-remote and hybrid roles</sub>
+📍 Glasgow, UK · hybrid Edinburgh / UK-remote-first
