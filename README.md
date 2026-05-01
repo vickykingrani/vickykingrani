@@ -6,9 +6,9 @@
 
 **Lead UX Designer · Glasgow, UK**
 
-I design regulated, expert-user enterprise software — the kind that runs trading floors under daily audit. Thirteen years pulling apart dense, expert workflows and rebuilding them around how analysts, clinicians, and compliance teams actually work.
+I design regulated, expert-user enterprise software — the kind that runs trading floors under daily audit. Thirteen years pulling apart dense, expert workflows and rebuilding them around how the experts inside actually work.
 
-📌 **Currently** Lead UX (via Wipro) on a Swiss investment bank's market-risk platform under FRTB, IMA DRC, and Basel III — embedded with quants, methodology, and engineering. Validated redesign in prototype testing (n=5 senior analysts): 60% click reduction on standard daily setups, 40% task-completion lift.
+📌 **Currently** Lead UX (via Wipro) on a Swiss investment bank's market-risk platform under FRTB, IMA DRC, Basel III. Embedded with quants and methodology. Validated redesign in prototype testing (n=5 senior analysts): 60% click reduction on standard daily setups, 40% task-completion lift.
 
 ---
 
@@ -23,13 +23,13 @@ I design regulated, expert-user enterprise software — the kind that runs tradi
 
 #### Domains
 
-**Investment banking** (current focus) · **Cybersecurity** (founding designer at 9ine — designed 8 modules; deployed across hundreds of schools) · *Previously:* Healthcare, Pharma supply chain, Telecom
+**Investment banking** (current focus) · **Cybersecurity** (founding designer at 9ine — architected eight modules; deployed across hundreds of schools) · *Previously:* Healthcare, Pharma supply chain, Telecom
 
 #### How I work
 
-- Sole UX in current role; previously led a 5-person team at 9ine and managed 12 reports at Koru UX.
-- Design systems from blank page; complex IA; state machines for high-stakes workflows.
-- Design to WCAG 2.1 AA from the brief stage.
+- Sole UX in current role. Previously led a 5-person team at 9ine; managed 12 reports at Koru UX.
+- Design-system architecture from blank page. Complex IA. State machines for high-stakes workflows.
+- Design to WCAG 2.2 AA from the brief stage.
 - Tools: Figma, Sketch, Adobe XD, Axure.
 - I write down decisions so the team keeps using them after I move on.
 
