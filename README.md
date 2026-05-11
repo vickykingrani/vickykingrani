@@ -1,12 +1,12 @@
 <a href="https://vickykingrani.com">
-  <img src="https://vickykingrani.com/og-image.png" alt="Vicky Kingrani — Lead UX Designer · 13+ years designing regulated, expert-user enterprise software" width="100%">
+  <img src="https://vickykingrani.com/og-image.png" alt="Vicky Kingrani — Lead UX Designer · 13+ years designing expert-user enterprise software" width="100%">
 </a>
 
 ### 👋 Hi, I'm Vicky
 
 **Lead UX Designer · Glasgow, UK**
 
-I design regulated, expert-user enterprise software — the kind that runs trading floors under daily audit. Thirteen years pulling apart dense, expert workflows and rebuilding them around how the experts inside actually work.
+I design expert-user enterprise software — the kind that runs trading floors under daily audit. Thirteen years pulling apart dense, expert workflows and rebuilding them around how the experts inside actually work.
 
 📌 **Currently** Lead UX (via Wipro) on a Swiss investment bank's market-risk platform under FRTB, IMA DRC, Basel III. Embedded with quants and methodology. Validated redesign in prototype testing (n=5 senior analysts): 60% click reduction on standard daily setups, 40% task-completion lift.
 
